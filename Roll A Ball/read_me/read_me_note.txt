@@ -1,0 +1,1 @@
+Extra wall is an obstacle in my game. Colored pink and is to the right of the center of the playing field.
